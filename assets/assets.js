@@ -82,22 +82,22 @@ export const assets = {
 
 export const workData = [
   {
-    title: "ProConnect",
-    description: "Full-Stack Project",
+    title: "AI-ChatPDF",
+    description: "Full Stack AI Document Chatbot",
     bgImage: work1,
+    link: "https://chatpdf-yt.vercel.app/",
+  },
+  {
+    title: "ProConnect",
+    description: "Full Stack Social Media App",
+    bgImage: work2,
     link: "https://pro-connect-app.vercel.app/",
   },
   {
-    title: "WanderLust",
-    description: "CRUD application",
-    bgImage: work2,
-    link: "https://delta-student-y0fy.onrender.com/listings",
-  },
-  {
-    title: "ApnaVideoCall",
-    description: "Web Dev Lead",
+    title: "MailMind AI",
+    description: "Full Stack AI Email Assistant",
     bgImage: work3,
-    link: "https://apnacollegezoomfrontend-vdq1.onrender.com",
+    link: "https://normal-human.com/",
   },
   {
     title: "Zerodha",
@@ -135,14 +135,14 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: "Programming Languages",
-    description: "Python, JavaScript, Java, SQL",
+    description: "Python, JavaScript, TypeScript, Java, SQL",
   },
   {
     icon: assets.web_icon,
     iconDark: assets.code_icon_dark,
     title: "Web Development",
     description:
-      "React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, JWT Auth, Microservices, Tailwind CSS, Bootstrap",
+      "React.js, Next.js, Node.js, Express.js, MongoDB, NeonDB, DrizzleORM, OpenAI, REST APIs, JWT Auth, NextAuth, Microservices, Vercel AI SDK, Clerk, Pinecone, Tailwind CSS, Bootstrap, Shadcn, Material UI, Django, Flask",
   },
   {
     icon: assets.web_icon,
@@ -169,7 +169,7 @@ export const infoList = [
     iconDark: assets.project_icon_dark,
     title: "Projects",
     description:
-      "Developed 5+ real-world applications including Movie Recommender, Wanderlust, Stock Functional, Video Call, Proconnect",
+      "Developed 5+ real-world applications including Movie Recommender, DocuChat AI, MailMind AI, Stock Functional, Video Call, Proconnect, wanderlust",
   },
 ];
 
